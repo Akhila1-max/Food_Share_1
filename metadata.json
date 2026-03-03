@@ -1,0 +1,5 @@
+{
+  "name": "FoodShare Connect",
+  "description": "A smart platform connecting food donors with volunteers and NGOs to reduce food waste and distribute excess food to those in need.",
+  "requestFramePermissions": ["geolocation"]
+}
